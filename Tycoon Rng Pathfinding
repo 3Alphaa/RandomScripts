@@ -1,0 +1,5 @@
+-- Do NOT change the name of the variable under this comment.
+
+_G.debug = false -- set this to true if you want debugs
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/3Alphaa/RandomScripts/main/Tycoon_Rng_Pathfinding_raw.luau'))()
