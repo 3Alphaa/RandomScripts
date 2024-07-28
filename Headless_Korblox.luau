@@ -2,6 +2,8 @@
 -- Also this script ONLY works for your friends and yourself.
 -- Made for R6
 
+_G.debug = false -- set this to true if you want debugs
+
 _G.excludedUserIds = {
 
 }
