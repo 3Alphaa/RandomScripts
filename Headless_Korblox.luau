@@ -1,4 +1,6 @@
 -- Do NOT touch the names of the tables!
+-- Also this script ONLY works for your friends and yourself.
+-- Made for R6
 
 _G.excludedUserIds = {
 
