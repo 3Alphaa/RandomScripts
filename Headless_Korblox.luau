@@ -1,8 +1,7 @@
 -- Do NOT touch the names of the tables!
 
 _G.excludedUserIds = {
-	1516260878,
-	173641597,
+
 }
 
 _G.excludedHeadlessUserIds = {
