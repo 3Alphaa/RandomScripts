@@ -3,4 +3,4 @@
 
 _G.debug = false -- set this to true if you want debugs
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/3Alphaa/RandomScripts/main/Tycoon%20Rng%20Pathfinding%20raw.luau'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/3Alphaa/RandomScripts/main/Tycoon%20Rng%20Pathfinding%20raw.lua'))()
