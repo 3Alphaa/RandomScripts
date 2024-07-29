@@ -16,4 +16,4 @@ _G.excludedKorbloxUserIds = {
 
 }
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/3Alphaa/RandomScripts/main/Headless_Korblox_raw.luau'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/3Alphaa/RandomScripts/main/Headless_Korblox_raw.lua'))()
