@@ -10,7 +10,6 @@ getgenv().functions = {
         MaterialService = false,
         ReplicatedFirst = false,
         ReplicatedStorage = false,
-        ServerScriptService = false,
         ServerStorage = false,
         StarterGui = false,
         StarterPack = false,
