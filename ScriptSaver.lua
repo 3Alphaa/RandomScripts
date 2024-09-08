@@ -1,9 +1,9 @@
 -- a basic script that saves every local and modulescripts of the game in your executor's workspace folder
-local functions = {
+getgenv().functions = {
     textType = ".bin", -- default types: .bin, .lua, .luau, .txt
     typeFunction = getscriptbytecode, -- default functions: getscriptbytecode, dumpstring, decompile
     optionalServices = false, -- controls whether optional services are processed or not
-    serviceOptions = { -- only works if the optionalService option is set to true
+    serviceOptions = { -- this will only work if optionalService is set to true
         Workspace = false,
         Players = false,
         Lighting = false,
